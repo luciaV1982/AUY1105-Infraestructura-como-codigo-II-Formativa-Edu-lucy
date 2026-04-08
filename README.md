@@ -27,3 +27,4 @@ Contribuciones son bienvenidas! Revisa nuestra [Guía de Contribuciones](./docs/
 ## CÓDIGO DE CONDUCTA
 
 👋 Por favor, contribuye con amabilidad. Revisa nuestro [Código de Conducta](./docs/CODE_OF_CONDUCT.md)
+Prueba ejecución pipeline Lucia V
